@@ -8,7 +8,7 @@ Utilizing the color scheme from [Tokyo Night Theme for VS Code](https://github.c
 
 ## Note
 
-> ℹ️ **Info**  
+> [!NOTE]
 > This theme was created quickly and not all parts of the interface have been thoroughly tested. If you notice any issues, please report them or submit a correction. Cheers!
 
 ---
@@ -37,7 +37,7 @@ Utilizing the color scheme from [Tokyo Night Theme for VS Code](https://github.c
 1. Clone the repository:
     ```
     cd /opt
-    git clone https://github.com/MahdiMirzade/qbittorrent.git
+    git clone https://github.com/milutinke/qBitTorrent-Tokyo-Night-Theme.git
     chmod -R 777 qbittorrent
     ```
 2. Enable theme selection from menu: → Tools → Options → Web UI → Use alternative Web UI.
