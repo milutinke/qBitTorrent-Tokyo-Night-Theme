@@ -297,6 +297,7 @@ QAbstractItemView {
 QProgressBar {
   text-align: center;
   border: 1px solid %cl0%;
+  color: %cl0%;
 }
 
 QProgressBar::chunk {

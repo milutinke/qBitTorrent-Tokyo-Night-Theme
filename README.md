@@ -6,6 +6,11 @@
 This theme code is based on [this example](https://github.com/MahdiMirzadeh/qbittorrent).
 Utilizing the color scheme from [Tokyo Night Theme for VS Code](https://github.com/tokyo-night/tokyo-night-vscode-theme).
 
+## Note
+
+> ℹ️ **Info**  
+> This theme was created quickly and not all parts of the interface have been thoroughly tested. If you notice any issues, please report them or submit a correction. Cheers!
+
 ---
 
 ## Application Theme (Client)

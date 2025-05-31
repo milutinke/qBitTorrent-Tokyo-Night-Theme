@@ -194,7 +194,7 @@ QTabBar::tab:top {
 
 QTabBar::tab:top:hover {
   background: #1a1b26;
-  color: #414868;
+  color: #cfc9c2;
 }
 
 QTabBar::tab:top:selected {
@@ -217,7 +217,7 @@ QListView::item {
 
 QListView::item:hover {
   background: #1a1b26;
-  color: #414868;
+  color: #cfc9c2;
   padding: 0px;
 }
 
@@ -267,7 +267,7 @@ QTreeView::item {
 
 QTreeView::item:hover {
   background: #1a1b26;
-  color: #414868;
+  color: #cfc9c2;
   padding: 0px;
 }
 
@@ -297,6 +297,7 @@ QAbstractItemView {
 QProgressBar {
   text-align: center;
   border: 1px solid #1a1b26;
+  color: #1a1b26;
 }
 
 QProgressBar::chunk {
@@ -400,7 +401,7 @@ QPushButton:enabled
 }
 
 QPushButton:hover {
-  color: #414868;
+  color: #cfc9c2;
 }
 
 QPushButton:focus {
